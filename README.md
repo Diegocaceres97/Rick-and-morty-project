@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Este proyecto fue hecho con herramientas y bibliotecas tales como Bootstrap, además, al final de este documento podrán encontrar una imagen de como se ve el proyecto y si desean, ustedes mismos pueden visitarlo por medio del link provisto en about.
+Este proyecto fue hecho con herramientas y bibliotecas tales como Bootstrap, además, al final de este documento podrán encontrar una imagen de como se ve el proyecto funcionando y si desean, ustedes mismos pueden visitarlo por medio del link provisto en about.
 
 ## Available Scripts
 
